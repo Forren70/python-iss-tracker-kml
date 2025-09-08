@@ -17,8 +17,10 @@ Python Script for Real-Time ISS Tracking and KML Visualization. This Python scri
 ## Requirements
 To run this script, ensure you have the following installed:
 -Python 3.x
+
 -Python Modules: requests (for API calls) and simplekml (for KML file generation). You can install them via pip:
 pip install requests simplekml
+
 -Google Earth: To visualize the generated KML file.
 
 ## How to Run
