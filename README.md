@@ -1,6 +1,6 @@
 # **Python Script for Real-Time ISS Tracking and KML Visualization**
 
-Python Script for Real-Time ISS Tracking and KML Visualization. This Python script tracks the International Space Station's (ISS) live position using a public API. It processes the data to generate a KML file for visualizing the trajectory on Google Earth, combining Python programming, API integration, and geospatial visualization.
+This script retrieves the International Space Station's (ISS) live position using a public API and generates a KML file to visualize its trajectory in Google Earth, combining Python programming, API integration, and geospatial visualization.
 
 ![ISS Trajectory visualized in Google Earth](https://github.com/Forren70/python-iss-tracker-kml/blob/main/ISS-trajectory-GoogleEarth.png)
 *In this screenshot from Google Earth, the ISS trajectory is above the Pacific Ocean, about 1000 km East of Kiribati islands, moving approximately from NNW to SSE.*
